@@ -1,3 +1,3 @@
 # DemoGitHub
 
-Readme for Demo GitHub Project
+Demo project for DevOps Services integration with GitHub.
